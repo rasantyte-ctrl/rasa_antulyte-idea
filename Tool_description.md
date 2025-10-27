@@ -7,15 +7,23 @@ Extra information:
 [Link to the repository](https://github.com/massimoaria/tall). Second edit!! hehe
 
 Creators:
+<p>
     - Massimo Aria
         email: aria@unina.it
         ORCID: https://orcid.org/0000-0002-8517-9411
+</p>
+<p>
     - Corrado Cuccurullo
         email: cuccurullocorrado@gmail.com
         ORCID: https://orcid.org/0000-0002-7401-8575
+</p>
+<p>
     - Luca D’Aniello
         email: luca.daniello@unina.it
         ORCID: https://orcid.org/0000-0003-1019-9212
+</p>
+<p>
     - Maria Spano
         email: maria.spano@unina.it
         ORCID: https://orcid.org/0000-0002-3103-2342
+</p>
