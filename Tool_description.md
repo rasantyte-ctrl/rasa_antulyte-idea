@@ -5,3 +5,17 @@ Extra information:
 - TALL can be installed in two ways, depending on whether you want the stable version or the latest development version.
 
 [Link to the repository](https://github.com/massimoaria/tall). Second edit!! hehe
+
+Creators:
+    - Massimo Aria
+        email: aria@unina.it
+        ORCID: https://orcid.org/0000-0002-8517-9411
+    - Corrado Cuccurullo
+        email: cuccurullocorrado@gmail.com
+        ORCID: https://orcid.org/0000-0002-7401-8575
+    - Luca D’Aniello
+        email: luca.daniello@unina.it
+        ORCID: https://orcid.org/0000-0003-1019-9212
+    - Maria Spano
+        email: maria.spano@unina.it
+        ORCID: https://orcid.org/0000-0002-3103-2342
